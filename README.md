@@ -1,4 +1,4 @@
-# fickle
+# Fickle
 
 This is a very quick and dirty tool to generate fairly small Windows shellcode that calls WinExec 
 with a given command, with a focus on readability and ease of debugging. Included is a generator 
