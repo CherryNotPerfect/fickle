@@ -102,8 +102,6 @@ instructions. The template uses 0x11 for the key.
 
 Then just build according the build instructions listed above.
 
-The shellcode to set up the WinExec call in the template was inspired by this code: https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html
-
 ## Q & A
 
 Q: Why WinExec, why not X/Y/Z API?
